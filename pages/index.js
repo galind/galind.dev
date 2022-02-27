@@ -21,7 +21,7 @@ export default function Home() {
               />
             </div>
             <h1 className="text-3xl font-semibold">Guillem Galindo</h1>
-            <h2 className="text-lg text-light-gray">Full-stack developer</h2>
+            <h2 className="text-lg text-light-gray">Python developer</h2>
             <div className="flex mt-2 mb-1 w-full justify-center">
               <a href="https://twitter.com/guillemgalindo" className="flex mx-2">
                 <FontAwesomeIcon icon={faTwitter} size="lg" />
