@@ -8,7 +8,7 @@ function App({ Component, pageProps }) {
         title="Guillem Galindo"
         titleTemplate="Guillem Galindo"
         defaultTitle="Guillem Galindo"
-        description="I like to automate boring processes and solve problems using Python. Started coding at the age of 13 and 3 years later I started to work for companies worldwide as a freelance."
+        description="I enjoy automating boring processes and solving everyday problems using Python."
       />
       <Component {...pageProps} />
     </>
