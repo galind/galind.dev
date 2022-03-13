@@ -29,7 +29,7 @@ export default function Home() {
           <div className="text-4xl font-semibold transition hover:text-red-500">
             Guillem Galindo
           </div>
-          <div className="text-xl font-semibold text-justify">
+          <div className="text-xl font-semibold">
             I&apos;m a {age} year old developer from Barcelona. I enjoy automating boring processes and solving everyday problems using Python.
           </div>
           <div className="space-x-4">
