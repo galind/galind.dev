@@ -34,7 +34,7 @@ export default function Home() {
           </div>
           <div className="space-x-4">
             {socials.map((social) => (
-              <a href={social.href} className="transition hover:text-red-500" target="_blank" rel="noreferrer">
+              <a href={social.href} key={social.href} className="transition hover:text-red-500" target="_blank" rel="noreferrer">
                 <FontAwesomeIcon icon={social.icon} size="2x" />
               </a>
             ))}
