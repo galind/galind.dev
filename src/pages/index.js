@@ -30,11 +30,11 @@ export default function Home() {
             Guillem Galindo
           </div>
           <div className="text-xl font-semibold text-justify">
-            I'm a {age} year old developer from Barcelona. I enjoy automating boring processes and solving everyday problems using Python.
+            I&apos;m a {age} year old developer from Barcelona. I enjoy automating boring processes and solving everyday problems using Python.
           </div>
           <div className="space-x-4">
             {socials.map((social) => (
-              <a href={social.href} className="transition hover:text-red-500" target="_blank">
+              <a href={social.href} className="transition hover:text-red-500" target="_blank" rel="noreferrer">
                 <FontAwesomeIcon icon={social.icon} size="2x" />
               </a>
             ))}
