@@ -11,7 +11,7 @@ config.autoAddCss = false;
 const socials = [
   {href: "https://github.com/galind", icon: faGithub},
   {href: "https://linkedin.com/in/guillemgalindo", icon: faLinkedin},
-  {href: "https://galind_dev", icon: faTwitter},
+  {href: "https://twitter.com/galind_dev", icon: faTwitter},
   {href: "https://instagram.com/guillem_galindo", icon: faInstagram}
 ]
 
