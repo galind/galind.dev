@@ -9,7 +9,6 @@ function App({ Component, pageProps }) {
         title="Guillem Galindo"
         titleTemplate="Guillem Galindo"
         defaultTitle="Guillem Galindo"
-        description="I enjoy automating boring processes and solving everyday problems using Python."
       />
 
       <Head>
