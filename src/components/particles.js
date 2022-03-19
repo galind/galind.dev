@@ -1,6 +1,6 @@
 import Particles from "react-tsparticles";
 
-const Effects = () => {
+export default function Effects() {
     const particlesInit = (main) => {
         console.log(main);
     };
@@ -160,6 +160,4 @@ const Effects = () => {
         }}
       />
     );
-};
-
-export default Effects;
+}
