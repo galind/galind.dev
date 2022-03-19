@@ -4,6 +4,6 @@
 
 @layer base {
   body {
-    @apply bg-black text-white selection:bg-white selection:text-black cursor-default
+    @apply bg-black text-white selection:bg-white selection:text-black
   }
 }
