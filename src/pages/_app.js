@@ -12,7 +12,7 @@ function App({ Component, pageProps }) {
       />
 
       <Head>
-        <link rel="shortcut icon" href="/images/rocket.ico" />
+        <link rel="shortcut icon" href="/images/porsche.ico" />
       </Head>
 
       <Component {...pageProps} />
