@@ -10,7 +10,7 @@ const socials = [
   {icon: faGithub, title: "GitHub", href: "https://github.com/galind"},
   {icon: faLinkedin, title: "LinkedIn", href: "https://linkedin.com/in/guillemgalindo"},
   {icon: faTwitter, title: "Twitter", href: "https://twitter.com/galind_dev"},
-  {icon: faInstagram, title: "Instagram", href: "https://instagram.com/guillem_galindo"},
+  {icon: faInstagram, title: "Instagram", href: "https://instagram.com/guillemgalind0"},
 ]
 
 export default function Home() {
